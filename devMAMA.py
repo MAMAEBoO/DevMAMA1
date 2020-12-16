@@ -49,7 +49,7 @@ def cetak(b):
     sys.stdout.write(x + '\n')
 
 
-logo = "\n\x1b[37;1m____________________________________\n\x1b[31;1m ______CODE BY LOST______TB___BAR PRS NEN LA HECH KESHAYAK_____TELEGRAM_@LOSTidXOR___TELEGRAM CHANELL__LC PUBG FREE____STAFF___AVATAR\x1b[37;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n#####################################\n\x1b[0m\n"
+logo = "\n\x1b[37;1m____________________________________\n\x1b[31;1m ______CODE BY MAMA______TB___BAR PRS NEN LA HECH KESHAYAK_____TELEGRAM_@MAMA_EBoO___TELEGRAM CHANELL PUBG FREE____STAFF___AVATAR\x1b[37;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n#####################################\n\x1b[0m\n"
 
 def tik():
     titik = ['.', '..', '...', '....', '.....', '......', '.......']
@@ -69,7 +69,7 @@ listgrup = []
 vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 os.system('clear')
-RH = "\n\x1b[37;1m____________________________________\n\x1b[31;1m ______CODE BY LOST___TB__BAR PRS NEN LA HECH KESHAYAK____TELEGRAM__@LOSTidXOR___Telegram Chanell__LC FREE ACCOUNT___STAFF___AVATAR\x1b[37;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n#####################################\n\x1b[0m\n"
+RH = "\n\x1b[37;1m____________________________________\n\x1b[31;1m ______CODE BY MAMA___TB__BAR PRS NEN LA HECH KESHAYAK____TELEGRAM__@MAMA_EBoO___Telegram Chanell FREE ACCOUNT___STAFF___AVATAR\x1b[37;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n#####################################\n\x1b[0m\n"
 
 def idcr():
     uuid = requests.get('https://httpbin.org/uuid')
