@@ -1,4 +1,4 @@
-# CODE BY LOST
+# CODE BY MAMA
 
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, requests, mechanize
